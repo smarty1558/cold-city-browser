@@ -2,16 +2,17 @@
 
 Windows 11 x64용 Cold City 브라우저 배포 페이지입니다.
 
-## 설치와 실행
+## 설치
 
-1. [Releases](https://github.com/smarty1558/cold-city-browser/releases/latest)에서 `ColdCityBrowser-버전-win-x64.zip`을 받습니다.
-2. 원하는 폴더에 압축을 풉니다.
-3. 폴더 안의 **`ColdCity.exe`** 를 실행합니다.
+1. [최신 릴리스](https://github.com/smarty1558/cold-city-browser/releases/latest)에서 **`ColdCitySetup-버전.exe`** 를 받습니다.
+2. 받은 파일을 실행하면 바로 설치되고 Cold City Browser가 열립니다. 시작 메뉴와 바탕화면에 아이콘이 생깁니다.
 
-계속 쓰려면 `ColdCity.exe`를 우클릭해 작업표시줄에 고정하거나 바로가기를 만드세요. Windows가 "알 수 없는 게시자" 경고를 띄우면 **추가 정보 → 실행**을 누르세요.
+관리자 권한은 필요 없습니다. Windows가 "알 수 없는 게시자" 경고를 띄우면 **추가 정보 → 실행**을 누르세요.
 
 ## 업데이트
 
-새 ZIP을 다른 폴더에 풀고 새 `ColdCity.exe`를 실행하면 됩니다. 로그인과 설정은 `%APPDATA%\cold-city-browser-release`에 저장되어 그대로 이어집니다.
+자동입니다. 새 버전이 나오면 브라우저가 뒤에서 받아 두고 탭 줄 오른쪽에 **업데이트** 버튼을 띄웁니다. 누르면 다시 시작하면서 새 버전이 됩니다. 누르지 않아도 다음에 브라우저를 끌 때 적용됩니다.
+
+로그인과 설정은 `%APPDATA%\cold-city-browser-release`에 저장되어 업데이트 후에도 그대로 남습니다. 0.1.2 ZIP을 쓰던 분은 설치 파일을 한 번 실행하면 되고, 예전 ZIP 폴더는 지워도 됩니다.
 
 사용법은 브라우저의 우상단 프로필 → **사용법 · 기능**에서, 버그와 의견은 **건의하기**에서 보낼 수 있습니다.
